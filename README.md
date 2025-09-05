@@ -37,15 +37,18 @@ It includes implementations for Takens' embedding, persistence diagrams, and coe
 
 2.Run the main pipeline:
   ```bash
-  python MainCodes.py```
+  python MainCodes.py
+```
 
 
 3.Compute numerical quantities:
   ```bash
-  python Quantities.py```
+  python Quantities.py
+```
 
 
 4.Verify coefficient field dependence:
   ```bash
-  python VerifyCoeffDependence.py```
+  python VerifyCoeffDependence.py
+```
 
