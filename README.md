@@ -34,13 +34,16 @@ It includes implementations for Takens' embedding, persistence diagrams, and coe
    git clone https://github.com/YourUserName/PH-in-time-series.git
    cd PH-in-time-series
 
+
 2.Run the main pipeline:
   ```bash
   python MainCodes.py
 
+
 3.Compute numerical quantities:
   ```bash
   python Quantities.py
+
 
 4.Verify coefficient field dependence:
   ```bash
