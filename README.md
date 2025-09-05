@@ -33,6 +33,7 @@ It includes implementations for Takens' embedding, persistence diagrams, and coe
    ```bash
    git clone https://github.com/YourUserName/PH-in-time-series.git
    cd PH-in-time-series
+```
 
 
 2.Run the main pipeline:
